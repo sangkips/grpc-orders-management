@@ -41,5 +41,6 @@ To use gRPC you need to generate the code using the following `make` command:
 
 ### Run the project
 Use Makefile to run the project, start with orders, then hotel
-- `make run-orders`
+- `make run-orders`: starts gRPC
 - `make run-hotel`
+- `localhost:5000`
